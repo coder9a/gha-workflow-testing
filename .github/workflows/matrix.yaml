@@ -21,7 +21,7 @@ jobs:
         include:
           - os: ubuntu-latest
             is-ubuntu: true
-          - os: mac0s-latest
+          - os: macos-latest
             node-version: 25
           - experimental: false
           - os: ubuntu-latest
